@@ -1,0 +1,6 @@
+{
+  "name": "Interactive Data Dashboard",
+  "description": "An interactive visual analytics platform to import, analyze, filter, and visualize custom datasets across multiple chart types and aggregation modes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
